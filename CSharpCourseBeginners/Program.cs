@@ -11,7 +11,9 @@ namespace CSharpCourseBeginners
         static void Main(string[] args)
         {
             //Variables.VariablesLearning();
-            Conditions.Conditionslearning();
+            //Conditions.Conditionslearning();
+
+            Loops.LoopsLearning();
 
             Console.ReadKey();
         }
