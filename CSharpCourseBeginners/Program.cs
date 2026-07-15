@@ -13,7 +13,8 @@ namespace CSharpCourseBeginners
             //Variables.VariablesLearning();
             //Conditions.Conditionslearning();
             //Loops.LoopsLearning();
-            Collections.CollectionsLearning();
+            //Collections.CollectionsLearning();
+            Methods.MethodsLearning();
 
             Console.ReadKey();
         }
